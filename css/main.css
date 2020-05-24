@@ -1,0 +1,56 @@
+body {
+  background-color: #d3d3d3;
+  margin: 5vh auto;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+#main {
+  margin: 0 20vw;
+  text-align: center;
+}
+
+p {
+  margin: 3vh 3vw;
+  text-align: justify;
+  background-color: white;
+  padding: 1vh 1vw;
+  border-radius: 9px;
+}
+
+h2 {
+  text-transform: capitalize;
+  font-style: italic;
+  font-size: 1.2rem;
+}
+
+h3 {
+  text-transform: capitalize;
+}
+
+#img-caption {
+  margin-top: 0;
+  font-weight: 400;
+}
+
+#tribute-info {
+  margin-top: 5vh;
+}
+
+#img-div {
+  background-color: #8eacbb;
+  margin: 0 auto;
+  padding: 3vh 3vw;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+#info {
+  padding: 3vh 3vw;
+}
